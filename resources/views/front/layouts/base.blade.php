@@ -51,7 +51,7 @@
           </nav>
         </section>
 
-        <a class="btn btn-sm btn-round btn-dark" href="readme.html">Read me</a>
+        <a class="btn btn-sm btn-round btn-dark" href="/register">Register</a>
 
       </div>
     </nav><!-- /.navbar -->
